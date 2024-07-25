@@ -3,17 +3,28 @@
     "development"
   ],
   "hints": {
+<<<<<<< HEAD
+=======
+    "meta-viewport": "off",
+>>>>>>> c79b75f74aea14d9985d77d6051469fd6166aabd
     "compat-api/css": [
       "default",
       {
         "ignore": [
           "max-width: fit-content",
+<<<<<<< HEAD
           "-webkit-text-size-adjust",
           "-webkit-tap-highlight-color"
         ]
       }
     ],
     "meta-viewport": "off",
+=======
+          "-webkit-text-size-adjust"
+        ]
+      }
+    ],
+>>>>>>> c79b75f74aea14d9985d77d6051469fd6166aabd
     "axe/text-alternatives": [
       "default",
       {
@@ -25,7 +36,11 @@
       {
         "list": "off"
       }
+<<<<<<< HEAD
     ],
     "no-inline-styles": "off"
+=======
+    ]
+>>>>>>> c79b75f74aea14d9985d77d6051469fd6166aabd
   }
 }
